@@ -1,0 +1,17 @@
+table{margin: 50px 0px 0px 190px; width: 600px}
+#rect1{margin-left: 150px; height: 30px;
+		background-color: #2F38B1; color:white; border: 1px solid; font-family: arial}
+
+#button1{margin-left: 210px; margin-top: 4px; cursor: pointer;}
+#button2{margin-top: 4px; cursor: pointer;}
+
+#rect2{margin-left: 190px; width: 599px;
+		height: 30px; background-color: #2F38B1; border: 1px solid}
+
+table, td, th{
+    border: 1px solid black;
+}
+
+.box{width: 98.5%}
+
+.red{color: white; background-color: #751111}

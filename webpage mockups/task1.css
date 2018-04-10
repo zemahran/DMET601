@@ -1,0 +1,43 @@
+a{
+    color:black;
+}
+a:hover{
+    color:#a1ebec;
+}
+div{
+    font-size: 12px;
+    font-family: arial;
+}
+h4{
+    border-bottom: 1px solid black;
+    font-weight: bold;
+    font-family: arial;
+    letter-spacing: 1px;
+}
+p{
+    font-family: arial;
+    letter-spacing: 1px;
+}
+.spanners{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.underlineall{
+    border-bottom: 1px solid black;
+    font-weight: bold;
+}
+#brel1{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+#brel2{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 62px;
+    letter-spacing: 2px;
+    position: absolute;
+    left:100px;
+}
