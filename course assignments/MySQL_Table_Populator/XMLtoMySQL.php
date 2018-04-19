@@ -2,7 +2,7 @@
 <html>
 
     <head>
-        <title>Question_2</title>
+        <title>XMLtoMySQL</title>
     </head>
 
     <body>
